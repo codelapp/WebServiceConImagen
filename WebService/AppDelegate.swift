@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  WebService
-//
-//  Created by Jorge Maldonado Borbón on 21/11/17.
-//  Copyright © 2017 Jorge Maldonado Borbón. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
